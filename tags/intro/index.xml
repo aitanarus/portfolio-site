@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Intro on Aitana Rus Portfolio</title>
+    <link>https://aitanarus.github.io/portfolio-site/tags/intro/</link>
+    <description>Recent content in Intro on Aitana Rus Portfolio</description>
+    <image>
+      <title>Aitana Rus Portfolio</title>
+      <url>https://aitanarus.github.io/portfolio-site/images/IMG_5450.jpg</url>
+      <link>https://aitanarus.github.io/portfolio-site/images/IMG_5450.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aitanarus.github.io/portfolio-site/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Digital Playground 🛠️</title>
+      <link>https://aitanarus.github.io/portfolio-site/posts/welcome-post/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://aitanarus.github.io/portfolio-site/posts/welcome-post/</guid>
+      <description>&lt;h2 id=&#34;hey-im-aitana-&#34;&gt;Hey, I’m Aitana 👋&lt;/h2&gt;
+&lt;p&gt;Welcome to my corner of the internet! I’m a &lt;strong&gt;developer, tinkerer, and proud code nerd&lt;/strong&gt; who decided to stop keeping my projects hidden in GitHub repos and start sharing them with the world.&lt;/p&gt;
+&lt;p&gt;This site is my &lt;strong&gt;digital playground&lt;/strong&gt;—a place where I showcase the things I build, write about tech (and occasionally break things just to fix them again 😉), and reflect on my journey in software development.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
