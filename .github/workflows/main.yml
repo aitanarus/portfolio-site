@@ -1,0 +1,2 @@
+POST https://api.github.com/repos/aitanarus/portfolio-site/actions/workflows/create-post.yml/dispatches
+Authorization: 
